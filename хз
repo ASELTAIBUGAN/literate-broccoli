@@ -1,0 +1,7 @@
+эхо "# грамотная брокколи" >> README.md
+git init
+git добавить README.md
+git commit -m "первая фиксация"
+git branch -M основная
+git remote add origin https://github.com/ASELTAIBUGAN/literate-broccoli.git
+git push -u origin основной
